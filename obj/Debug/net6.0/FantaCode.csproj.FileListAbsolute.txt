@@ -1,0 +1,30 @@
+D:\DotNet demo\FantaCode\bin\Debug\net6.0\FantaCode.exe
+D:\DotNet demo\FantaCode\bin\Debug\net6.0\FantaCode.deps.json
+D:\DotNet demo\FantaCode\bin\Debug\net6.0\FantaCode.runtimeconfig.json
+D:\DotNet demo\FantaCode\bin\Debug\net6.0\FantaCode.dll
+D:\DotNet demo\FantaCode\bin\Debug\net6.0\FantaCode.pdb
+D:\DotNet demo\FantaCode\obj\Debug\net6.0\FantaCode.csproj.AssemblyReference.cache
+D:\DotNet demo\FantaCode\obj\Debug\net6.0\FantaCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet demo\FantaCode\obj\Debug\net6.0\FantaCode.AssemblyInfoInputs.cache
+D:\DotNet demo\FantaCode\obj\Debug\net6.0\FantaCode.AssemblyInfo.cs
+D:\DotNet demo\FantaCode\obj\Debug\net6.0\FantaCode.csproj.CoreCompileInputs.cache
+D:\DotNet demo\FantaCode\obj\Debug\net6.0\FantaCode.dll
+D:\DotNet demo\FantaCode\obj\Debug\net6.0\refint\FantaCode.dll
+D:\DotNet demo\FantaCode\obj\Debug\net6.0\FantaCode.pdb
+D:\DotNet demo\FantaCode\obj\Debug\net6.0\FantaCode.genruntimeconfig.cache
+D:\DotNet demo\FantaCode\obj\Debug\net6.0\ref\FantaCode.dll
+D:\FantaCode\DotNet\bin\Debug\net6.0\FantaCode.exe
+D:\FantaCode\DotNet\bin\Debug\net6.0\FantaCode.deps.json
+D:\FantaCode\DotNet\bin\Debug\net6.0\FantaCode.runtimeconfig.json
+D:\FantaCode\DotNet\bin\Debug\net6.0\FantaCode.dll
+D:\FantaCode\DotNet\bin\Debug\net6.0\FantaCode.pdb
+D:\FantaCode\DotNet\obj\Debug\net6.0\FantaCode.csproj.AssemblyReference.cache
+D:\FantaCode\DotNet\obj\Debug\net6.0\FantaCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\FantaCode\DotNet\obj\Debug\net6.0\FantaCode.AssemblyInfoInputs.cache
+D:\FantaCode\DotNet\obj\Debug\net6.0\FantaCode.AssemblyInfo.cs
+D:\FantaCode\DotNet\obj\Debug\net6.0\FantaCode.csproj.CoreCompileInputs.cache
+D:\FantaCode\DotNet\obj\Debug\net6.0\FantaCode.dll
+D:\FantaCode\DotNet\obj\Debug\net6.0\refint\FantaCode.dll
+D:\FantaCode\DotNet\obj\Debug\net6.0\FantaCode.pdb
+D:\FantaCode\DotNet\obj\Debug\net6.0\FantaCode.genruntimeconfig.cache
+D:\FantaCode\DotNet\obj\Debug\net6.0\ref\FantaCode.dll
